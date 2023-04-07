@@ -1,0 +1,100 @@
+<MyWidget>:
+    input_widget: loading_data
+    output_widget: saving_data
+
+    BoxLayout:
+        orientation : "vertical"
+        Button:
+            text: 'Загрузить информацию'
+            on_press: root.open_window()
+
+        Button:
+            text: 'Сохранить'
+            on_press: root.save_window()
+
+        Button:
+            text: 'Разбить на лексемы'
+            on_press: root.process_file()
+
+        Button:
+            text: 'Инфо'
+            on_press: root.about()
+
+
+
+    TextInput:
+        id: loading_data
+
+    TextInput:
+        id: saving_data
+
+
+<DownloadInfo>:
+    title: 'Выберите файл'
+    size_hint: (0.9, 0.9)
+
+    BoxLayout:
+        orientation: "vertical"
+
+        FileChooserListView:
+            id: filechooser
+            path: "E:\\PyCharm_projects\\"
+
+        BoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: 130
+            Button:
+                size_hint_y: None
+                height: 50
+                text: "Select file"
+                on_press: root.select_file(filechooser.selection)
+
+            Button:
+                size_hint_y: None
+                height: 50
+                text: "Cancel"
+                on_press: root.close_window()
+
+
+<SaveInfo>:
+    title: 'Save File'
+    size_hint: (0.9, 0.9)
+
+    file_name : file_name
+
+    BoxLayout:
+        orientation: "vertical"
+        Label:
+            text:"Enter name of file"
+        TextInput:
+            id: file_name
+
+        BoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: 130
+
+            Button:
+                size_hint_y: None
+                height: 50
+                text: "Save file"
+                on_press: root.save_file()
+
+            Button:
+                size_hint_y: None
+                height: 50
+                text: "Cancel"
+                on_press: root.close_window()
+
+
+<Info>
+    title: 'About'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text:'Здесь вы можете посмотреть информацию о проекте'
+
+        Button:
+            text: 'Сlose'
+            on_press: root.dismiss()
