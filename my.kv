@@ -1,6 +1,7 @@
 <MyWidget>:
     input_widget: loading_data
     output_widget: saving_data
+    filter_word_widget: filter_data
 
     BoxLayout:
         orientation : "vertical"
@@ -15,6 +16,14 @@
         Button:
             text: 'Разбить на лексемы'
             on_press: root.process_file()
+
+        BoxLayout:
+            TextInput:
+                id: filter_data
+
+            Button:
+                text: 'Отфильтровать'
+                on_press: root.filter_words()
 
         Button:
             text: 'Инфо'
