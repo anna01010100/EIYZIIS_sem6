@@ -52,7 +52,7 @@ class DownloadInfo(Popup):
 
 class SaveInfo(Popup):
     file_name = ObjectProperty('Input1')
-    path = "E://PyCharm_projects//output"
+    path = "D:\\Projects\\3course\\eyaziis\\lab1_\\lan1_ann\\EIYZIIS_sem6-main\\output"
 
     def __init__(self, *args, **kwargs):
         super(SaveInfo, self).__init__(**kwargs)
@@ -71,6 +71,7 @@ class SaveInfo(Popup):
 
 class Info(Popup):
     pass
+
 
 class MyApp(App):
     def build(self):
