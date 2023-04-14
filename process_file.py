@@ -1,19 +1,25 @@
 import nltk
 import spacy
+import time
 
 
 class ProcessFile:
     def __init__(self, input_text):
         self.nlp = spacy.load("en_core_web_sm")
+        time_start = time.time()
         self.input = self.nlp(input_text)
         self.my_dict = {}
+        time_end = time.time()
+        print("Time for processing: " + str(time_end-time_start))
 
     def result(self):
         for i in self.input:
-            if i.text not in [',', ':', '!', '?', '.', ';', "'", "\n", "–", "‘"]:
+            if i.text not in [',', ':', '!', '?', '.', ';', "'", "\n", "–", "‘", " "]:
                 self.my_dict[i.text] = f"lexeme: {i.lemma_}, pos: {i.pos_}, morphological_features: {i.morph}, " \
                                        f"possible_role: {str(self.role_of_word_in_sentence(i))}\n"
         str1 = self.beauty_result(self.my_dict)
+        print("Word count: " + str(len(self.input)))
+        print("Unique lexeme count: " + str(len(self.my_dict.keys())))
         return str1
 
     def filter_results(self, filter_word):
@@ -27,7 +33,6 @@ class ProcessFile:
             return "The word in the filter is not in the text!"
         else:
             return self.beauty_result(new_dict)
-
 
     def beauty_result(self, ugly_dict):
         str_result = ''
