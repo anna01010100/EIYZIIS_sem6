@@ -10,16 +10,44 @@ class ProcessFile:
 
     def result(self):
         for i in self.input:
-            if i.text not in [',', ':', '!', '?', '.', ';', "'", "\n"]:
-                self.my_dict[i.text] = f"lexeme: {i.lemma_}, pos: {i.pos_}, 'part_of_sent: {i.dep_}\n"
-        print(self.my_dict)
-        str1 = self.beauty_result()
+            if i.text not in [',', ':', '!', '?', '.', ';', "'", "\n", "–", "‘"]:
+                self.my_dict[i.text] = f"lexeme: {i.lemma_}, pos: {i.pos_}, morphological_features: {i.morph}, " \
+                                       f"possible_role: {str(self.role_of_word_in_sentence(i))}\n"
+        str1 = self.beauty_result(self.my_dict)
         return str1
 
-    def beauty_result(self):
+    def filter_results(self, filter_word):
+        new_dict = {}
+        if filter_word == '':
+            new_dict = dict(self.my_dict)
+        for key, value in self.my_dict.items():
+            if key == filter_word:
+                new_dict[key] = value
+        if not new_dict:
+            return "The word in the filter is not in the text!"
+        else:
+            return self.beauty_result(new_dict)
+
+
+    def beauty_result(self, ugly_dict):
         str_result = ''
-        for key, i in self.my_dict.items():
+        for key, i in ugly_dict.items():
             str_result = str_result + (key + "\n\t" + str(i) + '\n\n')
 
         return str_result
 
+    def role_of_word_in_sentence(self, token) -> list:
+        role_of_word = []
+        if token.pos_ in ("NOUN", "PROPN", "PRON", "NUM"):
+            role_of_word.append("Subject")
+        if token.pos_ in ("AUX", "VERB"):
+            role_of_word.append("Predicate")
+        if token.pos_ in ("VERB", "PROPN", "PRON", "NOUN", "ADJ", "NUM"):
+            role_of_word.append("Object")
+        if token.pos_ in ("ADJ"):
+            role_of_word.append("Attribute")
+        if token.pos_ in ("ADV"):
+            role_of_word.append("Adverbial Modifier")
+        if not role_of_word:
+            role_of_word.append("Not detected")
+        return role_of_word

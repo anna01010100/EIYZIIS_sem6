@@ -1,0 +1,1332 @@
+Gulls
+	lexeme: gull, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+How
+	lexeme: how, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+the
+	lexeme: the, pos: DET, morphological_features: Definite=Def|PronType=Art, possible_role: ['Not detected']
+
+
+seaside
+	lexeme: seaside, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+birds
+	lexeme: bird, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+took
+	lexeme: take, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+over
+	lexeme: over, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+urban
+	lexeme: urban, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+Britain
+	lexeme: Britain, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+When
+	lexeme: when, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+was
+	lexeme: be, pos: AUX, morphological_features: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin, possible_role: ['Predicate']
+
+
+last
+	lexeme: last, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+day
+	lexeme: day, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+you
+	lexeme: you, pos: PRON, morphological_features: Case=Nom|Person=2|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+did
+	lexeme: do, pos: AUX, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate']
+
+
+n’t
+	lexeme: not, pos: PART, morphological_features: , possible_role: ['Not detected']
+
+
+see
+	lexeme: see, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+a
+	lexeme: a, pos: DET, morphological_features: Definite=Ind|PronType=Art, possible_role: ['Not detected']
+
+
+gull
+	lexeme: gull, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+Throughout
+	lexeme: throughout, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+we
+	lexeme: we, pos: PRON, morphological_features: Case=Nom|Number=Plur|Person=1|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+ordinarily
+	lexeme: ordinarily, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+cross
+	lexeme: cross, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+paths
+	lexeme: path, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+with
+	lexeme: with, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+these
+	lexeme: these, pos: DET, morphological_features: Number=Plur|PronType=Dem, possible_role: ['Not detected']
+
+
+more
+	lexeme: more, pos: ADV, morphological_features: Degree=Cmp, possible_role: ['Adverbial Modifier']
+
+
+often
+	lexeme: often, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+than
+	lexeme: than, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+any
+	lexeme: any, pos: DET, morphological_features: , possible_role: ['Not detected']
+
+
+other
+	lexeme: other, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+wild
+	lexeme: wild, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+creature
+	lexeme: creature, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+They
+	lexeme: they, pos: PRON, morphological_features: Case=Nom|Number=Plur|Person=3|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+are
+	lexeme: be, pos: AUX, morphological_features: Mood=Ind|Tense=Pres|VerbForm=Fin, possible_role: ['Predicate']
+
+
+hard
+	lexeme: hard, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+to
+	lexeme: to, pos: PART, morphological_features: , possible_role: ['Not detected']
+
+
+avoid
+	lexeme: avoid, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+In
+	lexeme: in, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+30
+	lexeme: 30, pos: NUM, morphological_features: NumType=Card, possible_role: ['Subject', 'Object']
+
+
+years
+	lexeme: year, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+lifespan
+	lexeme: lifespan, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+of
+	lexeme: of, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+large
+	lexeme: large, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+they
+	lexeme: they, pos: PRON, morphological_features: Case=Nom|Number=Plur|Person=3|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+have
+	lexeme: have, pos: AUX, morphological_features: Mood=Ind|Tense=Pres|VerbForm=Fin, possible_role: ['Predicate']
+
+
+come
+	lexeme: come, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+among
+	lexeme: among, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+us
+	lexeme: we, pos: PRON, morphological_features: Case=Acc|Number=Plur|Person=1|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+as
+	lexeme: as, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+never
+	lexeme: never, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+before
+	lexeme: before, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+Though
+	lexeme: though, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+still
+	lexeme: still, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+popularly
+	lexeme: popularly, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+regarded
+	lexeme: regard, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+seagulls
+	lexeme: seagull, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+many
+	lexeme: many, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+moved
+	lexeme: move, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+inland
+	lexeme: inland, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+far
+	lexeme: far, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+from
+	lexeme: from, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+or
+	lexeme: or, pos: CCONJ, morphological_features: ConjType=Cmp, possible_role: ['Not detected']
+
+
+saltwater
+	lexeme: saltwater, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+adapted
+	lexeme: adapt, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+life
+	lexeme: life, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+in
+	lexeme: in, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+places
+	lexeme: place, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+made
+	lexeme: make, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+and
+	lexeme: and, pos: CCONJ, morphological_features: ConjType=Cmp, possible_role: ['Not detected']
+
+
+thrived
+	lexeme: thrive, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+Cities
+	lexeme: Cities, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+their
+	lexeme: their, pos: PRON, morphological_features: Number=Plur|Person=3|Poss=Yes|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+hinterlands
+	lexeme: hinterland, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+where
+	lexeme: where, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+jettison
+	lexeme: jettison, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+our
+	lexeme: our, pos: PRON, morphological_features: Number=Plur|Person=1|Poss=Yes|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+rubbish
+	lexeme: rubbish, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+now
+	lexeme: now, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+sustain
+	lexeme: sustain, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+gulls
+	lexeme: gull, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+’
+	lexeme: ’, pos: PART, morphological_features: , possible_role: ['Not detected']
+
+
+former
+	lexeme: former, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+traditional
+	lexeme: traditional, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+marine
+	lexeme: marine, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+habitats
+	lexeme: habitat, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+Indeed
+	lexeme: indeed, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+paradox
+	lexeme: paradox, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+that
+	lexeme: that, pos: PRON, morphological_features: PronType=Rel, possible_role: ['Subject', 'Object']
+
+
+might
+	lexeme: might, pos: AUX, morphological_features: VerbForm=Fin, possible_role: ['Predicate']
+
+
+define
+	lexeme: define, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+Anthropocene
+	lexeme: Anthropocene, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+era
+	lexeme: era, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+surviving
+	lexeme: survive, pos: VERB, morphological_features: Aspect=Prog|Tense=Pres|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+coastal
+	lexeme: coastal, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+threatened
+	lexeme: threaten, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+local
+	lexeme: local, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+extinction
+	lexeme: extinction, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+while
+	lexeme: while, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+same
+	lexeme: same, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+species
+	lexeme: specie, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+areas
+	lexeme: area, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+so
+	lexeme: so, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+prevalent
+	lexeme: prevalent, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+thought
+	lexeme: think, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+pests
+	lexeme: pest, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+Almost
+	lexeme: almost, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+every
+	lexeme: every, pos: DET, morphological_features: , possible_role: ['Not detected']
+
+
+human
+	lexeme: human, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+inhabitant
+	lexeme: inhabitant, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+’s
+	lexeme: ’s, pos: PART, morphological_features: , possible_role: ['Not detected']
+
+
+cities
+	lexeme: city, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+could
+	lexeme: could, pos: AUX, morphological_features: VerbForm=Fin, possible_role: ['Predicate']
+
+
+watch
+	lexeme: watch, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+if
+	lexeme: if, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+wanted
+	lexeme: want, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+Urban
+	lexeme: urban, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+rooftop
+	lexeme: rooftop, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+nesting
+	lexeme: nesting, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+colonies
+	lexeme: colony, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+spread
+	lexeme: spread, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+throughout
+	lexeme: throughout, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+UK
+	lexeme: UK, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+The
+	lexeme: the, pos: DET, morphological_features: Definite=Def|PronType=Art, possible_role: ['Not detected']
+
+
+feed
+	lexeme: feed, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+on
+	lexeme: on, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+streets
+	lexeme: street, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+well
+	lexeme: well, pos: ADV, morphological_features: Degree=Pos, possible_role: ['Adverbial Modifier']
+
+
+dumps
+	lexeme: dump, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+Many
+	lexeme: many, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+people
+	lexeme: people, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+guard
+	lexeme: guard, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+however
+	lexeme: however, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+because
+	lexeme: because, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+one
+	lexeme: one, pos: NUM, morphological_features: NumType=Card, possible_role: ['Subject', 'Object']
+
+
+way
+	lexeme: way, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+another
+	lexeme: another, pos: PRON, morphological_features: , possible_role: ['Subject', 'Object']
+
+
+met
+	lexeme: meet, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+necessarily
+	lexeme: necessarily, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+enjoyed
+	lexeme: enjoy, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+encounter
+	lexeme: encounter, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+frighteningly
+	lexeme: frighteningly, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+big
+	lexeme: big, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+scale
+	lexeme: scale, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+seems
+	lexeme: seem, pos: VERB, morphological_features: Number=Sing|Person=3|Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+out
+	lexeme: out, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+sorts
+	lexeme: sort, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+new
+	lexeme: new, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+habitat
+	lexeme: habitat, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+loud
+	lexeme: loud, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+Their
+	lexeme: their, pos: PRON, morphological_features: Number=Plur|Person=3|Poss=Yes|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+clawed
+	lexeme: clawed, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+feet
+	lexeme: foot, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+stamp
+	lexeme: stamp, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+about
+	lexeme: about, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+place
+	lexeme: place, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+lift
+	lexeme: lift, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+off
+	lexeme: off, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+fly
+	lexeme: fly, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+skill
+	lexeme: skill, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+menace
+	lexeme: menace, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+suggesting
+	lexeme: suggest, pos: VERB, morphological_features: Aspect=Prog|Tense=Pres|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+both
+	lexeme: both, pos: CCONJ, morphological_features: ConjType=Cmp, possible_role: ['Not detected']
+
+
+ancient
+	lexeme: ancient, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+winged
+	lexeme: wing, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+dinosaurs
+	lexeme: dinosaur, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+futuristic
+	lexeme: futuristic, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+drone
+	lexeme: drone, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+ops
+	lexeme: op, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+seem
+	lexeme: seem, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+an
+	lexeme: an, pos: DET, morphological_features: Definite=Ind|PronType=Art, possible_role: ['Not detected']
+
+
+uncanny
+	lexeme: uncanny, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+knowledge
+	lexeme: knowledge, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+what
+	lexeme: what, pos: PRON, morphological_features: , possible_role: ['Subject', 'Object']
+
+
+is
+	lexeme: be, pos: AUX, morphological_features: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin, possible_role: ['Predicate']
+
+
+going
+	lexeme: go, pos: VERB, morphological_features: Aspect=Prog|Tense=Pres|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+how
+	lexeme: how, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+turn
+	lexeme: turn, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+it
+	lexeme: it, pos: PRON, morphological_features: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+advantage
+	lexeme: advantage, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+Above
+	lexeme: above, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+all
+	lexeme: all, pos: PRON, morphological_features: , possible_role: ['Subject', 'Object']
+
+
+steal
+	lexeme: steal, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+chips
+	lexeme: chip, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+And
+	lexeme: and, pos: CCONJ, morphological_features: ConjType=Cmp, possible_role: ['Not detected']
+
+
+opportunistic
+	lexeme: opportunistic, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+scavenging
+	lexeme: scavenging, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+raids
+	lexeme: raid, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+staple
+	lexeme: staple, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+national
+	lexeme: national, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+diet
+	lexeme: diet, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+epitomise
+	lexeme: epitomise, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+contemporary
+	lexeme: contemporary, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+mashup
+	lexeme: mashup, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+nature
+	lexeme: nature, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+feral
+	lexeme: feral, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+world
+	lexeme: world, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+which
+	lexeme: which, pos: PRON, morphological_features: , possible_role: ['Subject', 'Object']
+
+
+must
+	lexeme: must, pos: AUX, morphological_features: VerbForm=Fin, possible_role: ['Predicate']
+
+
+live
+	lexeme: live, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+share
+	lexeme: share, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+animal
+	lexeme: animal, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+As
+	lexeme: as, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+evolved
+	lexeme: evolve, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+milieu
+	lexeme: milieu, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+followed
+	lexeme: follow, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+slipstream
+	lexeme: slipstream, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+will
+	lexeme: will, pos: AUX, morphological_features: VerbForm=Fin, possible_role: ['Predicate']
+
+
+be
+	lexeme: be, pos: AUX, morphological_features: VerbForm=Inf, possible_role: ['Predicate']
+
+
+like
+	lexeme: like, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+badges
+	lexeme: badge, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+creation
+	lexeme: creation, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+for
+	lexeme: for, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+duration
+	lexeme: duration, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+this
+	lexeme: this, pos: DET, morphological_features: Number=Sing|PronType=Dem, possible_role: ['Not detected']
+
+
+late
+	lexeme: late, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+hour
+	lexeme: hour, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+tracking
+	lexeme: track, pos: VERB, morphological_features: Aspect=Prog|Tense=Pres|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+no
+	lexeme: no, pos: DET, morphological_features: , possible_role: ['Not detected']
+
+
+bird
+	lexeme: bird, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+year
+	lexeme: year, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+herring
+	lexeme: herring, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+were
+	lexeme: be, pos: AUX, morphological_features: Mood=Ind|Tense=Past|VerbForm=Fin, possible_role: ['Predicate']
+
+
+discovered
+	lexeme: discover, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+drunk
+	lexeme: drunk, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+south
+	lexeme: south, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+coast
+	lexeme: coast, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+towns
+	lexeme: town, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+dyed
+	lexeme: dye, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+lurid
+	lexeme: lurid, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+orange
+	lexeme: orange, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+after
+	lexeme: after, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+falling
+	lexeme: fall, pos: VERB, morphological_features: Aspect=Prog|Tense=Pres|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+into
+	lexeme: into, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+vat
+	lexeme: vat, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+curry
+	lexeme: curry, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+Wales
+	lexeme: Wales, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+These
+	lexeme: these, pos: DET, morphological_features: Number=Plur|PronType=Dem, possible_role: ['Not detected']
+
+
+avian
+	lexeme: avian, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+encounters
+	lexeme: encounter, pos: VERB, morphological_features: Number=Sing|Person=3|Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+activities
+	lexeme: activity, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+say
+	lexeme: say, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+much
+	lexeme: much, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+today
+	lexeme: today, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+yet
+	lexeme: yet, pos: CCONJ, morphological_features: ConjType=Cmp, possible_role: ['Not detected']
+
+
+commonly
+	lexeme: commonly, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+despise
+	lexeme: despise, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+showing
+	lexeme: show, pos: VERB, morphological_features: Aspect=Prog|Tense=Pres|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+truths
+	lexeme: truth, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+beginnings
+	lexeme: beginning, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+entangled
+	lexeme: entangled, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+story
+	lexeme: story, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+can
+	lexeme: can, pos: AUX, morphological_features: VerbForm=Fin, possible_role: ['Predicate']
+
+
+traced
+	lexeme: trace, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+back
+	lexeme: back, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+little
+	lexeme: little, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+100
+	lexeme: 100, pos: NUM, morphological_features: NumType=Card, possible_role: ['Subject', 'Object']
+
+
+ago
+	lexeme: ago, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+when
+	lexeme: when, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+first
+	lexeme: first, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+shifted
+	lexeme: shift, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+being
+	lexeme: be, pos: AUX, morphological_features: VerbForm=Ger, possible_role: ['Predicate']
+
+
+Among
+	lexeme: among, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+early
+	lexeme: early, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+reporters
+	lexeme: reporter, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+arrival
+	lexeme: arrival, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+black
+	lexeme: black, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+-
+	lexeme: -, pos: PUNCT, morphological_features: PunctType=Dash, possible_role: ['Not detected']
+
+
+headed
+	lexeme: head, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+inner
+	lexeme: inner, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+London
+	lexeme: London, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+birdwatcher
+	lexeme: birdwatcher, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+conservationist
+	lexeme: conservationist, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+WH
+	lexeme: WH, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+Hudson
+	lexeme: Hudson, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+Severe
+	lexeme: severe, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+winters
+	lexeme: winter, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+1890s
+	lexeme: 1890s, pos: NUM, morphological_features: NumType=Card, possible_role: ['Subject', 'Object']
+
+
+drew
+	lexeme: draw, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+upriver
+	lexeme: upriver, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+even
+	lexeme: even, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+harsher
+	lexeme: harsh, pos: ADJ, morphological_features: Degree=Cmp, possible_role: ['Object', 'Attribute']
+
+
+conditions
+	lexeme: condition, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+ghostly
+	lexeme: ghostly, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+white
+	lexeme: white, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+waifs
+	lexeme: waif, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+unwanted
+	lexeme: unwanted, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+immigrants
+	lexeme: immigrant, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+shot
+	lexeme: shoot, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+at
+	lexeme: at, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+them
+	lexeme: they, pos: PRON, morphological_features: Case=Acc|Number=Plur|Person=3|PronType=Prs, possible_role: ['Subject', 'Object']
+
+
+but
+	lexeme: but, pos: CCONJ, morphological_features: ConjType=Cmp, possible_role: ['Not detected']
+
+
+(
+	lexeme: (, pos: PUNCT, morphological_features: PunctSide=Ini|PunctType=Brck, possible_role: ['Not detected']
+
+
+himself
+	lexeme: himself, pos: PRON, morphological_features: Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes, possible_role: ['Subject', 'Object']
+
+
+immigrant
+	lexeme: immigrant, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+Argentina
+	lexeme: Argentina, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+)
+	lexeme: ), pos: PUNCT, morphological_features: PunctSide=Fin|PunctType=Brck, possible_role: ['Not detected']
+
+
+saw
+	lexeme: see, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+beautiful
+	lexeme: beautiful, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+additions
+	lexeme: addition, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+avifauna
+	lexeme: avifauna, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+by
+	lexeme: by, pos: ADP, morphological_features: , possible_role: ['Not detected']
+
+
+sympathetic
+	lexeme: sympathetic, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+actions
+	lexeme: action, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+“
+	lexeme: ", pos: PUNCT, morphological_features: PunctSide=Ini|PunctType=Quot, possible_role: ['Not detected']
+
+
+working
+	lexeme: work, pos: VERB, morphological_features: Aspect=Prog|Tense=Pres|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+”
+	lexeme: ", pos: PUNCT, morphological_features: PunctSide=Fin|PunctType=Quot, possible_role: ['Not detected']
+
+
+who
+	lexeme: who, pos: PRON, morphological_features: , possible_role: ['Subject', 'Object']
+
+
+came
+	lexeme: come, pos: VERB, morphological_features: Tense=Past|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+Thames
+	lexeme: Thames, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+Embankment
+	lexeme: Embankment, pos: PROPN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+scraps
+	lexeme: scrap, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+lunchboxes
+	lexeme: lunchboxe, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+hungry
+	lexeme: hungry, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+Since
+	lexeme: since, pos: SCONJ, morphological_features: , possible_role: ['Not detected']
+
+
+then
+	lexeme: then, pos: ADV, morphological_features: PronType=Dem, possible_role: ['Adverbial Modifier']
+
+
+reliance
+	lexeme: reliance, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+food
+	lexeme: food, pos: NOUN, morphological_features: Number=Sing, possible_role: ['Subject', 'Object']
+
+
+has
+	lexeme: have, pos: AUX, morphological_features: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin, possible_role: ['Predicate']
+
+
+continued
+	lexeme: continue, pos: VERB, morphological_features: Aspect=Perf|Tense=Past|VerbForm=Part, possible_role: ['Predicate', 'Object']
+
+
+prompt
+	lexeme: prompt, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+regard
+	lexeme: regard, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+scavengers
+	lexeme: scavenger, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+rather
+	lexeme: rather, pos: ADV, morphological_features: , possible_role: ['Adverbial Modifier']
+
+
+entrepreneurs
+	lexeme: entrepreneur, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+feckless
+	lexeme: feckless, pos: ADJ, morphological_features: Degree=Pos, possible_role: ['Object', 'Attribute']
+
+
+refugees
+	lexeme: refugee, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+chancers
+	lexeme: chancer, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+idlers
+	lexeme: idler, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+scroungers
+	lexeme: scrounger, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+
+keen
+	lexeme: keen, pos: VERB, morphological_features: Tense=Pres|VerbForm=Fin, possible_role: ['Predicate', 'Object']
+
+
+exploit
+	lexeme: exploit, pos: VERB, morphological_features: VerbForm=Inf, possible_role: ['Predicate', 'Object']
+
+
+handouts
+	lexeme: handout, pos: NOUN, morphological_features: Number=Plur, possible_role: ['Subject', 'Object']
+
+

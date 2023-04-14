@@ -10,6 +10,7 @@ from process_file import ProcessFile
 class MyWidget(BoxLayout):
     input_widget = ObjectProperty(None)
     output_widget = ObjectProperty(None)
+    filter_word_widget = ObjectProperty(None)
 
     def open_window(self):
         _popup = DownloadInfo(self.input_widget)
@@ -23,6 +24,11 @@ class MyWidget(BoxLayout):
         PrF = ProcessFile(self.input_widget.text)
         dict1 = PrF.result()
         self.output_widget.text = dict1
+
+    def filter_words(self):
+        PrF = ProcessFile(self.input_widget.text)
+        PrF.result()
+        self.output_widget.text = PrF.filter_results(self.filter_word_widget.text)
 
     def about(self):
         _AboutPage = Info()
@@ -52,7 +58,7 @@ class DownloadInfo(Popup):
 
 class SaveInfo(Popup):
     file_name = ObjectProperty('Input1')
-    path = "E://PyCharm_projects//output"
+    path = "output"
 
     def __init__(self, *args, **kwargs):
         super(SaveInfo, self).__init__(**kwargs)
@@ -71,6 +77,7 @@ class SaveInfo(Popup):
 
 class Info(Popup):
     pass
+
 
 class MyApp(App):
     def build(self):
